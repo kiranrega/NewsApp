@@ -12,46 +12,31 @@ This is a React Native app that displays news articles fetched from the NewsAPI.
 ### Installation
 
 1. Clone the repository:
-
-\`\`\`bash
-git clone https://github.com/your-repo/news-app.git
-\`\`\`
+`git clone https://github.com/your-repo/news-app.git`
 
 2. Navigate to the project directory:
-
-\`\`\`bash
-cd news-app
-\`\`\`
+`cd news-app`
 
 3. Install dependencies:
+`npm install`
 
-\`\`\`bash
-npm install
-\`\`\`
 
 ### Running the App
 
 1. Start the Metro bundler:
+`npm start`
 
-\`\`\`bash
-npm start
-\`\`\`
 
 2. Run the app on your preferred platform:
 
 - For Android:
-
-\`\`\`bash
-npm run android
-\`\`\`
+`npm run android`
 
 - For iOS:
+`npm run ios`
 
-\`\`\`bash
-npm run ios
-\`\`\`
 
-### Add API key in index.ts Constants folder to fetch News
+### Add API key in index.ts in Constants folder to fetch News
 
 ## App Architecture
 
